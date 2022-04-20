@@ -1,0 +1,16 @@
+.container{
+font-size: large;
+text-align: center;
+}
+body{
+    background-color: rgb(212, 212, 178);
+}
+#itro{
+    background-color: violet;
+    text-align: center;
+    
+}
+#ol{
+    background-color: blueviolet;
+    text-decoration-color: antiquewhite;
+}
